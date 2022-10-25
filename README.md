@@ -1,16 +1,16 @@
-<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="50%" height="300px" alt="Coding" align="right"/>
+<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="50%" alt="Coding" align="right"/>
 
 
-<p width="40%" align="left">
+<p width="50%" align="left">
 	<h1>Hey 👋, I'm <a href="https://github.com/Vishwa9011/&show_icons=true&hide_border=true&theme=radical">Vishwa Vivek Yadav!</a></h1>
 
 ### Glad to see you here! &nbsp; 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc) -->
-
+<p>
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
 When I am not coding, you'll find me at my desk sketching stuff. Find out more about me & feel free to connect with me here:
-
+</p>
 <p align="left">
 	<a href="https://linkedin.com/in/vishwa-vivek-yadav-28a501240">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
