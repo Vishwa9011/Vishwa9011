@@ -1,7 +1,7 @@
-<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="50%" alt="Coding" align="right"/>
+<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="40%" alt="Coding" align="right"/>
 
 
-<p width="50%" align="left">
+<p width="60%" align="left">
 	<h1>Hey 👋, I'm <a href="https://github.com/Vishwa9011/&show_icons=true&hide_border=true&theme=radical">Vishwa Vivek Yadav!</a></h1>
 
 ### Glad to see you here! &nbsp; 
