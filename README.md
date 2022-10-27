@@ -2,7 +2,7 @@
 
 
 <p width="60%" align="left">
-	<h1>Hey 👋, I'm <a href="https://github.com/Vishwa9011/&show_icons=true&hide_border=true&theme=radical">Vishwa Vivek Yadav!</a></h1>
+	<h1>Hey 👋, I'm <a href="https://github.com/Vishwa9011/">Vishwa Vivek Yadav!</a></h1>
 
 ### Glad to see you here! &nbsp; 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc) -->
