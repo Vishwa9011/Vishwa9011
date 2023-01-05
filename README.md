@@ -42,6 +42,9 @@ When I am not coding, you'll find me at my desk sketching stuff. Find out more a
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                alt="react" width="40" height="40" />
     	 </a>
+	<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="react" width="40" height="40" />
+    	 </a>
 </p>
 
 ### 🧩 Libraries and Tools:
@@ -56,13 +59,12 @@ When I am not coding, you'll find me at my desk sketching stuff. Find out more a
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
      </a>
-     
      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
                alt="mongodb" width="40" height="40" />
      </a>
-     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
+     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" alt="nextjs" width="40" height="40" />
      </a>
      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -78,25 +80,7 @@ When I am not coding, you'll find me at my desk sketching stuff. Find out more a
      </a>
 </p>
 
-### 🧑🏻‍💻 Tools & Platform
-
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-
-### 💻 Workspace
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
 ## 📈 Stats
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishwa9011&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa9011&hide_border=true&theme=radical" />
