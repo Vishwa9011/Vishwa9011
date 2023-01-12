@@ -61,10 +61,10 @@ When I am not coding, you'll find me at my desk sketching stuff. Find out more a
      </a>
      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-               alt="mongodb" width="50" height="40" />
+               alt="mongodb" width="40" height="40" />
      </a>
      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" alt="nextjs" width="40" height="40" />
+          <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" alt="nextjs" width="50" height="40" />
      </a>
      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
