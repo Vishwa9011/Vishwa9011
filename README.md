@@ -67,7 +67,7 @@ When I am not coding, you'll find me at my desk sketching stuff. Find out more a
 
 ## 🔝 Most used languages
 
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa9011&layout=compact&hide_border=true&theme=radical" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwa9011&layout=compact&hide_border=true&theme=radical" />
 
 ---
 <p align="center">
