@@ -76,8 +76,9 @@ Feel free to connect with me:
 ## 🔝 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwa9011&layout=compact&hide_border=true&theme=radical"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vishwa9011&layout=compact&theme=radical&hide_border=true" />
 </p>
+
 
 ---
 
