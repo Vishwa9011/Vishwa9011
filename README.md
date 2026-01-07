@@ -84,7 +84,11 @@ Feel free to connect with me:
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishwa9011/Vishwa9011/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishwa9011/Vishwa9011/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Vishwa9011/Vishwa9011/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
